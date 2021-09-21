@@ -10,7 +10,7 @@ public class CenturyFromYearTest {
 	private TheJourneyBegins tjb;
 	
 	@Before
-	public void stup() {
+	public void setup() {
 		tjb= new TheJourneyBegins();
 	}
 	
